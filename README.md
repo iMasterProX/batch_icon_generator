@@ -1,5 +1,9 @@
 # Batch Icon Generator - Blockbench Plugin
 
+> **Language / 언어**:&nbsp;&nbsp; [한국어](#한국어) &nbsp;|&nbsp; [English](#english)
+
+---
+
 ## 한국어
 
 ### 소개
